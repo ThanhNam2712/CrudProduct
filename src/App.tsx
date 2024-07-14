@@ -30,8 +30,6 @@ function App(){
   const [editingText, setEditingText]= useState("");
   const [editingAvatar, setEditingAvatar]= useState("");
 
-  // udgfuigdiugfdufd
-
   useEffect(()=>{
     (async () => {
       try {
