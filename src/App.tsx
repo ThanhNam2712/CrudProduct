@@ -5,8 +5,7 @@ import "./App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import { ListGroup, ListGroupItem } from "react-bootstrap";
 import {Button, Form, ListGroup, ListGroupItem, Container, Row, Col} from 'react-bootstrap';
-
-
+// xin chào git nha
 function App(){
   const defaultAvatar  = "https://digiticket.vn/blog/wp-content/uploads/2021/07/banh-trung-thu-ha-noi.png";
   const defaultAvatar2 = "https://bazantravel.com/cdn/medias/uploads/84/84368-banh-trung-thu-dep.jpg";
