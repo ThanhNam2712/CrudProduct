@@ -1,10 +1,30 @@
-
 {
-    "todos": [
-      { "id": 1, "title": "Sản phẩm 1", "completed": false, "avatar": "https://digiticket.vn/blog/wp-content/uploads/2021/07/banh-trung-thu-ha-noi.png" },
-      { "id": 2, "title": "Sản phẩm 2", "completed": false, "avatar": "https://bazantravel.com/cdn/medias/uploads/84/84368-banh-trung-thu-dep.jpg" },
-      { "id": 3, "title": "Sản phẩm 3", "completed": false, "avatar": "https://cdn.tgdd.vn/Files/2019/08/16/1188291/nguon-goc-va-y-nghia-banh-trung-thu-201908161014062235.jpg" },
-      { "id": 4, "title": "Sản phẩm 4", "completed": false, "avatar": "https://static.vinwonders.com/production/banh-trung-thu-trung-chay-4.jpg" }
-    ]
-  }
-  
+  "users": [
+    {
+      "id": "f06d",
+      "username": "nam1",
+      "email": "thanhnam271224@gmail.com",
+      "password": "111111"
+    },
+    {
+      "id": "10e0",
+      "username": "aaaaaa",
+      "email": "thanhna271224@gmail.com",
+      "password": "111111"
+    }
+  ],
+  "todos": [
+    {
+      "id": "1",
+      "title": "con gà 1222",
+      "avatar": "https://seotrends.com.vn/wp-content/uploads/2023/04/anh-ga-trong-800x534-1.jpg",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "gà 2222",
+      "avatar": "https://seotrends.com.vn/wp-content/uploads/2023/04/anh-ga-trong-800x534-1.jpg",
+      "completed": false
+    }
+  ]
+}

@@ -4,3 +4,5 @@ export interface ITodo {
     avatar: string;
     completed: boolean;
 }
+
+  
